@@ -1,0 +1,7 @@
+{
+  "name": "appMobileV6",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
